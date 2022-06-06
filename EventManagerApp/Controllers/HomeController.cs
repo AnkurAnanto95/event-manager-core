@@ -33,5 +33,15 @@ namespace EventManagerApp.Controllers
         {
             return View(new ErrorViewModel { RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier });
         }
+
+
+        #region Event Management
+
+        public IActionResult AllEvents()
+        {
+            return View();
+        }
+        #endregion
+
     }
 }

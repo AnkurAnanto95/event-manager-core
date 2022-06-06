@@ -78,3 +78,4 @@ D:\dotnet-projects\event-manager-core\EventManagerApp\obj\Debug\net5.0\ref\Event
 D:\dotnet-projects\event-manager-core\EventManagerApp\obj\Debug\net5.0\EventManagerApp.pdb
 D:\dotnet-projects\event-manager-core\EventManagerApp\obj\Debug\net5.0\EventManagerApp.genruntimeconfig.cache
 D:\dotnet-projects\event-manager-core\EventManagerApp\obj\Debug\net5.0\EventManagerApp.csproj.CopyComplete
+D:\dotnet-projects\event-manager-core\EventManagerApp\obj\Debug\net5.0\Razor\Views\Home\AllEvents.cshtml.g.cs
